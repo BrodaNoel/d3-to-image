@@ -1,7 +1,7 @@
 # D3-TO-IMAGE
 This library is exclusive dedicated to D3 implemented in AngularJS. So, it will be useful to `D3` manually added over AngularJS, `NVD3` and `angularjs-nvd3`
 
-> Let's improve this doc in a future.
+If you want more information about how to implement your own svg-image-exporter-converter-whatever, please chck this library: https://github.com/BrodaNoel/svg-2-image/blob/master/README.md
 
 ## How to implement it in AngularJS
 Here you have some help to implement it in AngularJS.
